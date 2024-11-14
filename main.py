@@ -73,9 +73,9 @@ def showing_question():
     elif marks_percentage >= 70:
         print(f'Good! Your Percentage is {marks_percentage}%\nAnd Grade Is B')
     elif marks_percentage >= 60:
-        print(f'Good! Your Percentage is {marks_percentage}%\nAnd Grade Is C+')
+        print(f'Below Average! Your Percentage is {marks_percentage}%\nAnd Grade Is C+')
     elif marks_percentage >= 50:
-        print(f'Good! Your Percentage is {marks_percentage}%\nAnd Grade Is C')
+        print(f'Fair! Your Percentage is {marks_percentage}%\nAnd Grade Is C')
     else:
         print(f'OPPS!!! You Failed To Pass The Test\n{marks_percentage}% is Not Enough to Pass')
 
