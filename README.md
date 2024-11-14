@@ -27,3 +27,29 @@ The grades are assigned based on the percentage of correct answers: <br>
 •	C+: 60% to 69% (Fiar) <br>
 •	C: 50% to 59% (satisfactory) <br>
 •	Fail: Below 50% (You have failed to pass)
+
+### Example WorkFlow
+
+****************************************
+        Welcome to QUIZ APP
+****************************************
+<br><br>
+Important NOTE:<br>
+Quiz Contains 5 MCQs, each worth 5 marks<br>
+Correct Answer adds 5 Marks. Passing Marks: 60%<br><br>
+
+Question 1: Which keyword is used to define a function in Python?<br>
+A. function<br>
+B. def<br>
+C. define<br>
+D. func<br>
+Choose A, B, C, or D: B<br><br>
+HURRAHHHH!!! Your Answer is Correct<br>
+Your Marks are: 5<br>
+
+...<br><br>
+
+Your Total Marks are 25 out of 25<br>
+Super Star Excellent! Your Percentage is 100%<br>
+And Grade Is A+<br>
+
